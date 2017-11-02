@@ -17,4 +17,5 @@ class Walinns : NSObject{
       Logger.sharedInstance.e(comment: "WalinnsClient", msg: project_token)
     
     }
+    
 }
